@@ -18,7 +18,7 @@ jupyter notebook
 
 Open any `.ipynb` file and run the cells using **Shift + Enter**.
 
-## 📚 Topics
+## Topics
 
 * Data Preprocessing
 * Data Visualization
